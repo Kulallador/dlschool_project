@@ -1,0 +1,4 @@
+.vscode
+/env
+yolov5s.pt
+.gitignore
