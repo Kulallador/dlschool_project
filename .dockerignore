@@ -2,3 +2,5 @@
 /env
 yolov5s.pt
 .gitignore
+jemalloc-5.1.0.tar.bz2
+jemalloc-5.1.0

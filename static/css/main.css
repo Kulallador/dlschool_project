@@ -1,11 +1,7 @@
-li {
-    list-style-type: none; /* Убираем маркеры */
-}
-
-ul {
-    padding-left: 0; /* Сдвигаем список влево */
-}
-
 .imgCard {
     max-height: 60vh;
+}
+
+a {
+    text-decoration: none;
 }
