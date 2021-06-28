@@ -16,7 +16,14 @@ git clone https://github.com/Kulallador/dlschool_project.git
 
 ```
 python -m venv env python=3.9 
-source env/bin/activate 
+```
+Активация среды на Linux:
+```
+source env/bin/activate
+```
+на Windows:
+```
+env\Scripts\activate
 ```
 
 Далее нужно установить зависимости:
