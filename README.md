@@ -1,18 +1,18 @@
 # dlschool_project
 
-Данное веб-приложение разработано в рамках проекта для [Deep Learning school](https://www.dlschool.org/). 
+Веб-приложение разработано в рамках проекта для [Deep Learning school](https://www.dlschool.org/). 
 В качестве модели для детекции объектов использована модель [Yolov5s](https://github.com/ultralytics/yolov5), для загрузки модели использовался [torchhub](https://pytorch.org/hub/ultralytics_yolov5/).
 
 ## Запуск
 
-Для того, чтобы локально запустить приложение, у вас должен быть установлен python, pip и git. 
+Для запуска необходим python, pip и git. 
 
-В начале нужно клонировать данный репозиторий:
+Клонируем репозиторий:
 ```
 git clone https://github.com/Kulallador/dlschool_project.git
 ```
 
-После находясь в папке проекта нужно создать виртуальную среду и активировать её:
+Создаем виртуальную среду и активируем её:
 
 ```
 python -m venv env python=3.9 
@@ -26,12 +26,12 @@ source env/bin/activate
 env\Scripts\activate
 ```
 
-Далее нужно установить зависимости:
+Устанавливаем зависимости:
 ```
 pip install -r requirements.txt
 ```
 
-И запустить приложение
+Запускаем приложение:
 ```
 python app.py
 ```
