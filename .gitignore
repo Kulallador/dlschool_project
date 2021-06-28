@@ -3,3 +3,4 @@ env
 yolov5s.pt
 jemalloc-5.1.0.tar.bz2
 jemalloc-5.1.0
+__pycache__
